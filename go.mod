@@ -1,3 +1,3 @@
-module pyryjia/hellogo
+module hellogo
 
 go 1.18
